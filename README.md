@@ -50,7 +50,7 @@ admin.site.register(players,playersAdmin)
 
 ```
 ## OUTPUT
-![Alt text](<Screenshot 2023-10-17 093600.png>)
+![Alt text](output.png)
 
 
 ## RESULT
